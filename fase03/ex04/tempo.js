@@ -11,4 +11,3 @@ switch (unidade){
     return Math.ceil (time/(1000*60*60*24*31*12));
 }
 }
-console.log(tempo(1243817066000, "2009-07-28T19:24:00", "dia"));
